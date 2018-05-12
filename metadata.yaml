@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/582
     wikipedia: http://en.wikipedia.org/wiki/John_Masefield
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19396#On-the-Spanish-Main--Or-Some-English-forays-on-the-Isthmus-of-Darien
 gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
 gutenberg_issued: '2006-09-28'
 gutenberg_type: Text
